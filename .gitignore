@@ -1,0 +1,8 @@
+# Compiled binary
+/0x
+
+# Go test artifacts
+*.test
+
+# Build output
+/dist/
